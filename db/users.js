@@ -1,0 +1,72 @@
+module.exports = [
+  {
+    first_name: "Okemmadu",
+    last_name: "Eric",
+    email: "okemmadueric@gmail.com",
+    phone: "07061914110",
+    password: "1234",
+  },
+  {
+    first_name: "Nelson",
+    last_name: "chukwudi",
+    email: "chukwudi@gmail.com",
+    phone: "070645510",
+    password: "12334",
+  },
+  {
+    first_name: "Ngozi",
+    last_name: "Okafor",
+    email: "Okafor@gmail.com",
+    phone: "07086845510",
+    password: "123w4",
+  },
+  {
+    first_name: "Obinna",
+    last_name: "mkpo",
+    email: "obinaa@gmail.com",
+    phone: "07086345510",
+    password: "123dw4",
+  },
+  {
+    first_name: "Ofor",
+    last_name: "jessicapo",
+    email: "jessicapo@gmail.com",
+    phone: "07086345510",
+    password: "123dw4",
+  },
+  {
+    first_name: "Okemmadu",
+    last_name: "Eric",
+    email: "okemmadueric@gmail.com",
+    phone: "07061914110",
+    password: "1234",
+  },
+  {
+    first_name: "Nelson",
+    last_name: "chukwudi",
+    email: "chukwudi@gmail.com",
+    phone: "070645510",
+    password: "12334",
+  },
+  {
+    first_name: "Ngozi",
+    last_name: "Okafor",
+    email: "Okafor@gmail.com",
+    phone: "07086845510",
+    password: "123w4",
+  },
+  {
+    first_name: "Obinna",
+    last_name: "mkpo",
+    email: "obinaa@gmail.com",
+    phone: "07086345510",
+    password: "123dw4",
+  },
+  {
+    first_name: "Ofor",
+    last_name: "jessicapo",
+    email: "jessicapo@gmail.com",
+    phone: "07086345510",
+    password: "123dw4",
+  }
+];
