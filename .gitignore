@@ -4,3 +4,5 @@ node_modules/
 dist/bundle.js
 coverage
 package-lock.json
+combined.log
+error.log
